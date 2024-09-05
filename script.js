@@ -68,7 +68,7 @@ const students = [
 
 let messageLogs = [];
 
-// Firebase configuration
+// Firebase configuration 
 const firebaseConfig = {
   apiKey: "AIzaSyAAJ8eWUiAE85FmVpbHinlk0_FVGV3JsMQ",
   authDomain: "ramya-madam-2nd-year-section-2.firebaseapp.com",
@@ -325,7 +325,7 @@ function showCRProfiles() {
   crProfiles.innerHTML = ''; // Clear existing profiles
 
   const crs = [
-    { name: ' VAISHNAVI', rollNumber: ' 23WJ1A0472', email: '23WJ1A0472@gniindia.org', photo: 'https://i.ibb.co/6XNHkhv/image.png' },
+    { name: 'VAISHNAVI', rollNumber: '23WJ1A0472', email: '23WJ1A0472@gniindia.org', photo: 'https://i.ibb.co/6XNHkhv/image.png' },
     
   ];
 
