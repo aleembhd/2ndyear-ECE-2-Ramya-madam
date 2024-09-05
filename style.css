@@ -94,13 +94,16 @@ h1 {
   font-size: 32px;
   font-weight: 700;
 }
-
+#allParentsBtn{
+  background-color: 16325B;
+}
 h2 {
   font-size: 24px;
   font-weight: 500;
 }
 .searchbtn{
-  background-color: 131842;
+  background-color: 16325B;
+
   font-weight: bold;
 }
 .allparents{
@@ -625,13 +628,20 @@ font-size: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: 16325B;
   gap: 5px;
 }
 
 .icon {
   font-size: 1.2em;
 }
+#studentsBtn{
+  background-color: 16325B;
 
+}
+#logoutBtn{
+  background-color: 16325B;
+}
 .modal {
   display: none;
   position: fixed;
